@@ -1,5 +1,5 @@
 # Install Laravel Bash Script
-
+[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://www.opensource.org/licenses/MIT)
 > ### PLEASE NOTE:
 > I use this locally on my development machine where any directoriesfiles I create as a user are created with the webserver user as group owner.
 > It is my first attempt at a shell script that does anything more than echo "Hello World!"
