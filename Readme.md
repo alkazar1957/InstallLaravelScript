@@ -1,7 +1,7 @@
 # Install Laravel Bash Script
 
 > ### PLEASE NOTE:
-> I use this locally on my development machine where any files I create as a user is create with the webserver user as group owner.
+> I use this locally on my development machine where any directoriesfiles I create as a user are created with the webserver user as group owner.
 > It is my first attempt at a shell script that does anything more than echo "Hello World!"
 
 ## Description
